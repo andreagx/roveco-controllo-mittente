@@ -6,8 +6,8 @@
     xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides"
     xsi:type="MailApp">
 
-    <Id>9f6d3f4e-1d41-4f6b-b4b2-7a7b3d47e2c1</Id>
-    <Version>1.1.1.0</Version>
+   <Id>c14d74b8-5b57-4d55-9fd6-63f53e11cc82</Id>
+   <Version>1.1.2.0</Version>
 
     <ProviderName>ROVECO</ProviderName>
     <DefaultLocale>it-IT</DefaultLocale>
